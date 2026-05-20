@@ -187,7 +187,7 @@ export default function Home() {
             className="inline-flex min-h-10 items-center justify-center rounded-full bg-white px-3 text-[13px] font-bold text-[#26312f] transition hover:-translate-y-0.5 sm:min-h-11 sm:px-5 sm:text-sm"
             style={{ color: "#26312f" }}
           >
-            预约洗护
+            预约
           </a>
         </div>
       </nav>
