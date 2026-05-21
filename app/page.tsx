@@ -202,7 +202,7 @@ export default function Home() {
                 社区精品宠物洗护店
               </p>
               <h1 className="max-w-3xl text-5xl font-extrabold leading-[0.95] md:text-7xl lg:text-8xl">
-                让每一次洗澡，都像被温柔照顾。
+                让每一次洗澡，都像被温柔对待
               </h1>
               <p className="my-6 max-w-xl text-lg text-white/85 md:text-xl">
                 毛球泡泡为猫狗提供低压洗护、皮毛护理、造型修剪和接送预约。透明操作区、独立烘干舱、每只宠物一套清洁用具。
